@@ -2,7 +2,7 @@
 
 ![](https://media.giphy.com/media/l4KhNBgG8RaItFkDS/giphy.gif)
 
-Currently driving revenue at GitHub. Previously researching and brand-building in food marketing. I like talking about music, wellness, and equitable treatment for all.
+Currently driving revenue at GitHub. Previously researching and brand-building in food marketing. Passionate about music, wellness, and equitable treatment for all.
 
 :seedling: I'm learning JavaScript
 
