@@ -1,4 +1,11 @@
-### Hi there 👋
+### What's good 👋
+
+Currently driving revenue at GitHub. Previously researching and brand-building in food marketing. I like talking about music, wellness, and whatever book I'm currently reading.
+
+:seedling: I'm learning JavaScript
+
+
+
 
 <!--
 **aarchuleta/aarchuleta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
