@@ -1,12 +1,14 @@
-### What's good 👋
+### :wave: What's good 
 
 ![](https://media.giphy.com/media/l4KhNBgG8RaItFkDS/giphy.gif)
 
-🔭 Currently driving revenue at GitHub. Previously researching and brand-building in the wholesale food channel market. 
+:red_car: Currently driving revenue at GitHub. 
 
-:heart: Passionate about music, wellness, and equitable treatment for all.
+🔭Previously researching and brand-building in the wholesale food channel market. 
 
-:seedling: I'm learning JavaScript
+:heart: I like wellness, cooking, and equitable treatment for all.
+
+:seedling: I'm learning JavaScript.
 
 
 
