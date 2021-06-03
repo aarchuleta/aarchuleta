@@ -2,9 +2,11 @@
 
 ![](https://media.giphy.com/media/l4KhNBgG8RaItFkDS/giphy.gif)
 
-:red_car: Currently driving revenue at GitHub. 
+🚀 Marketing Strategist at GitHub
 
-🔭Previously researching and brand-building in the wholesale food channel market. 
+:red_car: Previously driving revenue at GitHub. 
+
+🔭 Previously researching and brand-building in the wholesale food channel market. 
 
 :heart: I like wellness, cooking, and equitable treatment for all.
 
