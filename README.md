@@ -2,7 +2,7 @@
 
 ![](https://media.giphy.com/media/l4KhNBgG8RaItFkDS/giphy.gif)
 
-🚀 Marketing Strategist at GitHub
+🚀 Marketing at GitHub.
 
 :red_car: Previously driving revenue at GitHub. 
 
