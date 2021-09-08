@@ -4,13 +4,11 @@
 
 🚀 Marketing at GitHub.
 
-:red_car: Previously driving revenue at GitHub. 
-
 🔭 In my past life, I was researching and brand-building in the wholesale food channel market. 
 
 :heart: I like wellness, cooking, and equitable treatment for all.
 
-:seedling: I'm learning JavaScript.
+:seedling: I'm learning JavaScript
 
 
 
