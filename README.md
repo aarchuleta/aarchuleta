@@ -8,7 +8,7 @@
 
 :heart: I like wellness, cooking, and equitable treatment for all.
 
-:seedling: I'm learning JavaScript
+:seedling: I'm unlearning and relearning new things each day.
 
 
 
