@@ -1,14 +1,13 @@
-### :wave: What's good 
+### :wave: What's good!  
 
 ![](https://media.giphy.com/media/l4KhNBgG8RaItFkDS/giphy.gif)
 
-🚀 Marketing at GitHub.
-
-🔭 Before, I was researching and brand-building in the wholesale food channel market. 
-
-:heart: I like wellness, cooking, and equitable treatment for all.
-
-:seedling: I'm unlearning and relearning new things each day.
+🚀 I currently work on customer marketing at GitHub <br>
+🔭 Before, I was researching and brand-building natural food products in the wholesale channel <br>
+👯 I'm looking to collaborate on product-led community building <br>
+:heart: I like food, music, and equitable treatment for all <br>
+:seedling: I'm always looking for a new book to read <br>
+✉️ Connect with me on [LinkedIn]([url](https://www.linkedin.com/in/alexandra-archuleta/))
 
 
 
