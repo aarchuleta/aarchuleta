@@ -1,15 +1,8 @@
-### :wave: What's good!  
+### :wave: I'm Alex
 
 ![](https://media.giphy.com/media/l4KhNBgG8RaItFkDS/giphy.gif)
 
-🚀 I currently work on customer marketing at GitHub <br>
-🔭 Before, I was researching and brand-building natural food products in the wholesale channel <br>
-👯 I'm looking to collaborate on product-led community building <br>
-:heart: I like food, music, and equitable treatment for all <br>
-:seedling: I'm always looking for a new book to read <br>
-✉️ Connect with me on [LinkedIn]([url](https://www.linkedin.com/in/alexandra-archuleta/))
-
-
+Strategic marketer blending storytelling with data to connect developers, security teams, and AI innovation. At GitHub, I craft campaigns, experiences, and partnerships that drive adoption and build community. Always thinking a few moves ahead, with a focus on impact, engagement, and a little bit of fun along the way. Bay Area native, committed to building for the long game. 🚀
 
 
 <!--
